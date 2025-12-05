@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-todo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67ee51af2c78800db685ac66088bb18cfe9dceb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cb58aaaaeb3539e2b338fa60b8b69818d314ad8")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-todo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-todo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
